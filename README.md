@@ -1,4 +1,4 @@
-# SSP (Smart-Sensor-Prediction)
+# Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism
 >
 > by [Jiyul Ham](), [Yoonji Ha](),  [Yu Tian](), [Keonhyeok Yoo](), [Jun-Geal Baek]().
 
