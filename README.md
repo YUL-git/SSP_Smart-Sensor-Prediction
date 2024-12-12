@@ -11,5 +11,5 @@ Lifelog data, collected from smartphones and wearable devices, encompasses vario
 ![overview](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction/blob/main/asset/SSP_model.png)
 
 ## Poster
-![poster](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction/blob/main/asset/ICTC_poster.pdf)
+![poster](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction/blob/main/asset/Poster.JPG)
   
