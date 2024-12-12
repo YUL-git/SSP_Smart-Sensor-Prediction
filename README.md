@@ -2,7 +2,7 @@
 >
 > by [Jiyul Ham](), [Yoonji Ha](), [Keonhyeok Yoo](), [Jun-Geal Baek]().
 
-## [paper]()
+### [paper]()
 
 ## Poster
 ![poster](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction/blob/main/asset/Poster.JPG)
